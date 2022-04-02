@@ -1,4 +1,4 @@
-node('master') 
+node('built-in') 
 {
     stage('Cont_download_loans') 
     {
